@@ -1,0 +1,10 @@
+package com.nt.git;
+
+public class Math {
+	
+	public int sum(int a,int b){
+		
+		return a+b;
+	}
+
+}
