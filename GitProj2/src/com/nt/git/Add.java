@@ -8,6 +8,11 @@ public class Add {
 		
 		System.out.println("Welcome to github Bashi");
 		
+		for(int i=0;i<10;i++){
+			
+			System.out.println(i);
+		}
+		
 
 	}
 
