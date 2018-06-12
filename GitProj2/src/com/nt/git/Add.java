@@ -12,9 +12,14 @@ public class Add {
 		for(int i=0;i<10;i++){
 			
 			System.out.println(i);
+					
 		}
 		
 		System.out.println("sum"+ new Math().sum(10,20));
+		
+		WishGenerator generate = new WishGenerator();
+		
+		System.out.println("msg"+generate.generateWishMsg("yusuf"));
 	}
 
 }
