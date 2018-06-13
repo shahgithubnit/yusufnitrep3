@@ -25,5 +25,9 @@ public class Add {
 		
 		System.out.println("mul"+ new Mul().mul(10,90));
 	}
-
+	
+		public String print(){
+			
+			return "welcome";
+		}
 }
