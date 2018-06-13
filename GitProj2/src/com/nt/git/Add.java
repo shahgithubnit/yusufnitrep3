@@ -20,6 +20,8 @@ public class Add {
 		WishGenerator generate = new WishGenerator();
 		
 		System.out.println("msg"+generate.generateWishMsg("yusuf"));
+		
+		System.out.println("sub"+ new Sub().sub(100,50));
 	}
 
 }
