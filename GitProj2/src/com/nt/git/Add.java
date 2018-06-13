@@ -22,6 +22,8 @@ public class Add {
 		System.out.println("msg"+generate.generateWishMsg("yusuf"));
 		
 		System.out.println("sub"+ new Sub().sub(100,50));
+		
+		System.out.println("mul"+ new Mul().mul(10,90));
 	}
 
 }
