@@ -15,6 +15,8 @@ public class Add {
 					
 		}
 		
+		// conflict by TL Yusuf Shssh
+		
 		System.out.println("sum"+ new Math().sum(10,20));
 		
 		WishGenerator generate = new WishGenerator();
