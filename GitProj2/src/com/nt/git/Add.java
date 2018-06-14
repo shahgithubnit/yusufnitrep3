@@ -30,4 +30,8 @@ public class Add {
 			
 			return "welcome";
 		}
+		
+	public void test(){
+		return ;
+	}
 }
